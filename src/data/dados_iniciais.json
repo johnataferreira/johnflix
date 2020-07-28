@@ -1,0 +1,165 @@
+{
+  "categorias": [
+    {
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que é React JS? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0"
+        },
+        {
+          "titulo": "O que é Angular e AngularJS? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=LFlNU30u7d8"
+        },
+        {
+          "titulo": "ReactJS ou Angular? Série ReactJS",
+          "url": "https://www.youtube.com/watch?v=Pxho99BPrBc"
+        },
+        {
+          "titulo": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+          "url": "https://www.youtube.com/watch?v=Ptbk2af68e8"
+        },
+        {
+          "titulo": "VueJS em 1 hora! (Teoria e prática)",
+          "url": "https://www.youtube.com/watch?v=cSa-SMVMGsE"
+        },
+        {
+          "titulo": "React Native // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=mqltv3kFdgE"
+        }        
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Java // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=sZAxLRMxEUo"
+        },
+        {
+          "titulo": "Curso Python #01 - Seja um Programador",
+          "url": "https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0"
+        },
+        {
+          "titulo": "Curso de Ruby - Introdução ao Ruby (Aula 1)",
+          "url": "https://www.youtube.com/watch?v=2js9Q_BMD-8"
+        },
+        {
+          "titulo": "Closure (um dos conceitos por trás da Programação Funcional) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=8WzqEPzaOfE"
+        }, 
+        {
+          "titulo": "https://www.youtube.com/watch?v=8bBE1u8hnho",
+          "url": "https://www.youtube.com/watch?v=8bBE1u8hnho"
+        }
+      ]
+    },
+    {
+      "titulo": "Inteligência Artificial",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "O que é Machine Learning? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "A história da Inteligência Artificial - TecMundo",
+          "url": "https://www.youtube.com/watch?v=Lhu8bdmkMCM"
+        },
+        {
+          "titulo": "IBM Watson como funciona e o que é (NUNCA FOI TÃO FÁCIL ADICIONAR IA NO SEU PROGRAMA)",
+          "url": "https://www.youtube.com/watch?v=C6bf3A95Q7A"
+        },
+        {
+          "titulo": "Aplicações práticas da Inteligência Artificial",
+          "url": "https://www.youtube.com/watch?v=glQmT1gLMl0"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Sr. e Sra. Smith",
+          "url": "https://www.youtube.com/watch?v=Vf409C0_meo"
+        },
+        {
+          "titulo": "As Branquelas",
+          "url": "https://www.youtube.com/watch?v=0euQYLgwdXI"
+        },
+        {
+          "titulo": "Os Vingadores End Game",
+          "url": "https://www.youtube.com/watch?v=ee_SPTw7br8"
+        },
+        {
+          "titulo": "Avatar",
+          "url": "https://www.youtube.com/watch?v=6ziBFh3V1aM"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "The Legend of Dragoon",
+          "url": "https://www.youtube.com/watch?v=ZRARGkg1C8Q"
+        },
+        {
+          "titulo": "Warcraft 3: The Frozen Throne",
+          "url": "https://www.youtube.com/watch?v=s7xMnw1mMiA&list=PLMNPXC5AIm-qDPZJtS2UKZLtzH7TtxaWD"
+        },
+        {
+          "titulo": "Command & Conquer: Generals - Zero Hour",
+          "url": "https://www.youtube.com/watch?v=mLOo-f5VPpY&list=PLFl3jwQIfR79t3eR3Q-DPbZr4xD1bBoyL"
+        }
+      ]
+    },
+    {
+      "titulo": "TED",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "TED Ideas worth spreading",
+        "url": "https://www.ted.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Como falar de um jeito que as pessoas queiram ouvir",
+          "url": "https://www.youtube.com/watch?v=D236cCikGmA"
+        },
+        {
+          "titulo": "Brene Brown - O poder de vulnerabilidade",
+          "url": "https://www.youtube.com/watch?v=yPY7uF5Yle8"
+        },
+        {
+          "titulo": "The secrets of learning a new language | Lýdia Machová",
+          "url": "https://www.youtube.com/watch?v=o_XVt5rdpFY"
+        },
+        {
+          "titulo": "10 ways to have a better conversation | Celeste Headlee",
+          "url": "https://www.youtube.com/watch?v=R1vskiVDwl4"
+        },
+        {
+          "titulo": "How to gain control of your free time | Laura Vanderkam",
+          "url": "https://www.youtube.com/watch?v=n3kNlFMXslo"
+        }
+      ]
+    }
+  ]
+}
