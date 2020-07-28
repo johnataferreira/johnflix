@@ -8,7 +8,7 @@ import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
 //Desafio master blaster: criar uma página de jogo para a página 404
-const Pagina404 = () => (<div>Página 404 => <Link to="/">Go Home</Link></div>);
+const Pagina404 = () => (<div>Página 404 - <Link to="/">Go Home</Link></div>);
 
 ReactDOM.render(
   <BrowserRouter>
